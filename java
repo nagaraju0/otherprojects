@@ -1,3 +1,7 @@
 name = input { enter some name }
 if name == 'krishna'
      print{helloo good morning }
+if name == 'madhava'
+     print{hello good evening}
+else:
+    print { hello guest , have a coffe man }
