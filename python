@@ -1,6 +1,5 @@
 hello
    print{ hello world }
-<<<<<<< HEAD
  print anyway 
 
  ok hello print it fast
@@ -9,8 +8,6 @@ hello
  ok
  we all are support to you
  please improve your work
-=======
  print anyway
  no issue
  ok
->>>>>>> 5888770 ( commit for filed)

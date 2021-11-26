@@ -6,4 +6,5 @@ if name == 'madhava'
 else:
     print { hello guest , have a coffe man }
  hello sir what you do you want
-
+ok now do it agin
+for communicate with others
