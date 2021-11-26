@@ -10,3 +10,4 @@ ok now do it agin
 for communicate with others
  iyes i want
 yes to do
+ok godd luck to you
