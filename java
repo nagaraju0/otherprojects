@@ -11,3 +11,4 @@ for communicate with others
  iyes i want
 yes to do
 ok godd luck to you
+ok do it say
